@@ -3,8 +3,6 @@
 # 请勿用于任何非法用途，所有后果自负！！
 ## 使用演示
 - https://fastly.jsdelivr.net/gh/iiheng/TuChuang@main/1700961311425EasyGIF-1700961287297.gif
-## 新版本 支持rtsp 拉流，解决等bug
-- https://link3.cc/jaybrotherturnthetid
 ## 开发计划
 - [x] 支持rtmp传输直播,提高稳定性
 - [ ] 支持视频提前选择，自定义播放顺序
